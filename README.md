@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biigchungus
+- 👋 Hi, I’m Shubh
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Projects
